@@ -1,4 +1,4 @@
-Book 1
+Book 1: Revised Library Record
 Title: Atomic Habits
 Author: XYZ Known
 Genre: Fiction
