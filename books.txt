@@ -7,3 +7,5 @@ Book 2
 Title: Queen of tears
 Author: TN known
 Genre: Fiction
+
+Availability: Books can be searched by title or author.
