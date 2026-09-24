@@ -1,0 +1,5 @@
+Library Information
+
+Library Name: College Library
+System: LibraryBookTracker
+Purpose: Manage book records and library members.
