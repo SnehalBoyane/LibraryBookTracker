@@ -1,0 +1,6 @@
+Library Book Search Rules
+
+1. Users can search for books by title.
+2. Users can search for books by author.
+3. Search terms are matched against the book title or author name.
+4. Display the matching book records.
