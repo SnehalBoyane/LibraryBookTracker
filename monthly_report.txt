@@ -1,2 +1,3 @@
 Monthly Library Issue Report
 Books issued this month: 120
+Active library members: 75
